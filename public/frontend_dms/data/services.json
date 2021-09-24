@@ -1,0 +1,20 @@
+[
+    { "id":1, "code":"NWTB-1", "name":"Technology ColorExpress", "price":106 },
+    { "id":2, "code":"NWTB-2", "name":"Equipment rental mechanical application", "price":650 },
+    { "id":3, "code":"NWTB-3", "name":"Premium cleaning", "price":167 },
+    { "id":4, "code":"NWTB-4", "name":"Mold damage disposal", "price":130 },
+    { "id":5, "code":"NWTB-5", "name":"Floor covering work", "price":575 },
+    { "id":6, "code":"NWTB-6", "name":"Wall and roof cladding", "price":760 },
+    { "id":7, "code":"NWTB-7", "name":"Wall papering", "price":235 },
+    { "id":8, "code":"NWTB-8", "name":"Nespri-Tec System", "price":76 },
+    { "id":9, "code":"NWTB-9", "name":"Compressed-air painting apparatus rental", "price":170 },
+    { "id":10, "code":"NWTC-1", "name":"Technical task for civil design", "price":650 },
+    { "id":11, "code":"NWTC-2", "name":"Heating and ventilation of enclosed areas setting", "price":1600 },
+    { "id":12, "code":"NWTC-3", "name":"Landscape design", "price":1000 },
+    { "id":13, "code":"NWTC-4", "name":"Basic engineering", "price":1200 },
+    { "id":14, "code":"NWTC-5", "name":"Conceptual structure design", "price":1400 },
+    { "id":15, "code":"NWTC-6", "name":"Watertight coating", "price":260 },
+    { "id":16, "code":"NWTC-7", "name":"Wood-destroying fungus removal", "price":380 },
+    { "id":17, "code":"NWTC-8", "name":"Walls painting", "price":200 },
+    { "id":18, "code":"NWTC-9", "name":"Water-repellent facing", "price":400 }
+]
